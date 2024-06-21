@@ -1,0 +1,1 @@
+Repository for battle animations formatted for insertion into GBA Fire Emblem games.
