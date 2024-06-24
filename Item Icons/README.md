@@ -1,0 +1,1 @@
+Directory for item icons to be used in GBA Fire Emblem games.

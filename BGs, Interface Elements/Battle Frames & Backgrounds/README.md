@@ -1,0 +1,1 @@
+Directory dedicated to battle and cutscene backgrounds.

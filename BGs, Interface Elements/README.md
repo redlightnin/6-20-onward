@@ -1,0 +1,1 @@
+Directory for backgrounds and graphical user interface features.
