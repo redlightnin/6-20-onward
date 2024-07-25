@@ -1,0 +1,1 @@
+Subdirectory for non-Fire Emblem portraits.

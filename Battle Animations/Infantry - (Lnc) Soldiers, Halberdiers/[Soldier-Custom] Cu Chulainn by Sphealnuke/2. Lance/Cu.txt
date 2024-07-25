@@ -1,0 +1,260 @@
+#######################################################
+#ED CuLance Lord Lance
+#
+#When importing to FEditorAdv delete # and after each line.
+#######################################################
+/// - Mode 1                            #Melee Animation
+C03                                     #Start attack animation; need 07 right after this.
+C07                                     #Start attack animation; need 03 right before this.
+1 p- Cu_000.png
+6 p- Cu_001.png
+3 p- Cu_002.png
+9 p- Cu_003.png
+C22                                     #Play short sword swinging SFE
+3 p- Cu_004.png
+C15                                     #Slight vibration of screen
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+C20                                     #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- Cu_005.png
+4 p- Cu_006.png
+3 p- Cu_007.png
+9 p- Cu_008.png
+C01                                     #NOP
+4 p- Cu_009.png
+C22                                     #Play short sword swinging SFE
+2 p- Cu_010.png
+C42                                     #Play Axe falling SFE; long axe swinging SFE
+2 p- Cu_011.png
+3 p- Cu_012.png
+4 p- Cu_013.png
+4 p- Cu_014.png
+3 p- Cu_015.png
+2 p- Cu_016.png
+3 p- Cu_017.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 3                            #Melee Critical Animation
+C03                                     #Start attack animation; need 07 right after this.
+C07                                     #Start attack animation; need 03 right before this.
+1 p- Cu_000.png
+4 p- Cu_018.png
+C42                                     #Play Axe falling SFE; long axe swinging SFE
+3 p- Cu_019.png
+3 p- Cu_020.png
+2 p- Cu_021.png
+3 p- Cu_022.png
+3 p- Cu_023.png
+3 p- Cu_024.png
+C3E                                     #Play burning SFE
+3 p- Cu_025.png
+3 p- Cu_026.png
+3 p- Cu_027.png
+3 p- Cu_028.png
+3 p- Cu_029.png
+3 p- Cu_030.png
+3 p- Cu_031.png
+3 p- Cu_032.png
+12 p- Cu_033.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Cu_034.png
+C38                                     #Play heavy spear spinning SFE
+2 p- Cu_035.png
+3 p- Cu_036.png
+2 p- Cu_037.png
+3 p- Cu_038.png
+3 p- Cu_039.png
+3 p- Cu_040.png
+2 p- Cu_041.png
+C3C                                     #Play sword "whooshing" SFE (done by Nomads; sounds like wing flap)
+3 p- Cu_042.png
+2 p- Cu_043.png
+2 p- Cu_044.png
+2 p- Cu_045.png
+C14                                     #Heavy vibration of screen
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C0C                                     #Critical hit
+C20                                     #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- Cu_046.png
+2 p- Cu_047.png
+2 p- Cu_048.png
+2 p- Cu_049.png
+2 p- Cu_050.png
+3 p- Cu_051.png
+1 p- Cu_052.png
+C01                                     #NOP
+4 p- Cu_053.png
+C22                                     #Play short sword swinging SFE
+3 p- Cu_054.png
+3 p- Cu_055.png
+4 p- Cu_056.png
+6 p- Cu_057.png
+C1B                                     #Play quick "heavy step" SFE
+2 p- Cu_058.png
+2 p- Cu_059.png
+3 p- Cu_060.png
+3 p- Cu_061.png
+2 p- Cu_062.png
+C1B                                     #Play quick "heavy step" SFE
+3 p- Cu_063.png
+4 p- Cu_064.png
+3 p- Cu_065.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 5                            #Ranged Animation 
+C03                                     #Start attack animation; need 07 right after this.
+C07                                     #Start attack animation; need 03 right before this.
+1 p- Cu_000.png
+3 p- Cu_066.png
+C22                                     #Play short sword swinging SFE
+3 p- Cu_067.png
+6 p- Cu_068.png
+C25                                     #Play wing flap SFE
+2 p- Cu_069.png
+C05                                     #Call spell associated with equipped weapon
+3 p- Cu_070.png
+2 p- Cu_071.png
+1 p- Cu_072.png
+C01                                     #NOP
+2 p- Cu_073.png
+C24                                     #Play sword slashing air SFE
+2 p- Cu_074.png
+2 p- Cu_075.png
+C37                                     #Play sword clicking SFE
+9 p- Cu_076.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_077.png
+2 p- Cu_078.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_079.png
+2 p- Cu_080.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_077.png
+2 p- Cu_078.png
+C24                                     #Play sword slashing air SFE
+2 p- Cu_081.png
+3 p- Cu_015.png
+2 p- Cu_016.png
+3 p- Cu_017.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 6                            #Ranged Critical Animation
+C03                                     #Start attack animation; need 07 right after this.
+C07                                     #Start attack animation; need 03 right before this.
+1 p- Cu_000.png
+3 p- Cu_066.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_082.png
+2 p- Cu_083.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_084.png
+2 p- Cu_085.png
+9 p- Cu_068.png
+C25                                     #Play wing flap SFE
+2 p- Cu_069.png
+C05                                     #Call spell associated with equipped weapon
+3 p- Cu_070.png
+C24                                     #Play sword slashing air SFE
+2 p- Cu_071.png
+1 p- Cu_072.png
+C01                                     #NOP
+2 p- Cu_073.png
+C24                                     #Play sword slashing air SFE
+2 p- Cu_074.png
+2 p- Cu_075.png
+C37                                     #Play sword clicking SFE
+9 p- Cu_076.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_077.png
+2 p- Cu_078.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_079.png
+2 p- Cu_080.png
+C24                                     #Play sword slashing air SFE
+3 p- Cu_077.png
+2 p- Cu_078.png
+C24                                     #Play sword slashing air SFE
+2 p- Cu_081.png
+3 p- Cu_015.png
+2 p- Cu_016.png
+3 p- Cu_017.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 7                            #Dodge Melee Attack
+1 p- Cu_000.png
+C02                                     #Start of dodge
+1 p- Cu_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Cu_086.png
+3 p- Cu_087.png
+C01                                     #NOP
+2 p- Cu_086.png
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 8                            #Dodge Ranged Attack
+1 p- Cu_000.png
+C02                                     #Start of dodge
+1 p- Cu_000.png
+C0E                                     #Start of dodging frames (should go after standing frame and before dodging animation)
+2 p- Cu_086.png
+3 p- Cu_087.png
+C01                                     #NOP
+2 p- Cu_086.png
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - Mode 9                            #Equiped with Melee Weapon
+1 p- Cu_000.png
+C01                                     #NOP
+~~~
+/// - Mode 10                           #Standing motions
+1 p- Cu_000.png
+C01                                     #NOP
+~~~
+/// - Mode 11                           #Equiped with Ranged weapon
+1 p- Cu_000.png
+C01                                     #NOP
+~~~
+/// - Mode 12                           #Attack Missed Animation
+C03                                     #Start attack animation; need 07 right after this.
+C07                                     #Start attack animation; need 03 right before this.
+1 p- Cu_000.png
+6 p- Cu_001.png
+3 p- Cu_002.png
+9 p- Cu_003.png
+C22                                     #Play short sword swinging SFE
+3 p- Cu_088.png
+C15                                     #Slight vibration of screen
+C04                                     #Prepare HP depletion routine; needed to animate return to standing frame after hit
+C1A                                     #Normal hit
+C20                                     #Play hit SFE (sounds like Knight Lord with Durandal's hit)
+3 p- Cu_089.png
+4 p- Cu_090.png
+3 p- Cu_091.png
+9 p- Cu_092.png
+C01                                     #NOP
+4 p- Cu_093.png
+C22                                     #Play short sword swinging SFE
+2 p- Cu_010.png
+C42                                     #Play Axe falling SFE; long axe swinging SFE
+2 p- Cu_011.png
+3 p- Cu_012.png
+4 p- Cu_013.png
+4 p- Cu_014.png
+3 p- Cu_015.png
+2 p- Cu_016.png
+3 p- Cu_017.png
+C06                                     #Begin opponent's turn after hit.next code 0D.
+1 p- Cu_000.png
+C0D                                     #End of dodge animation. preceeded by 0x06
+~~~
+/// - End of animation

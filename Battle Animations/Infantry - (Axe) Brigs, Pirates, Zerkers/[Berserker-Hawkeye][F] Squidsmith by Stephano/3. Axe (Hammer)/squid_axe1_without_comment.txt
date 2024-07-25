@@ -1,0 +1,243 @@
+/// - Mode 1
+C03
+C07
+1 p- squid_axe1_000.png
+3 p- squid_axe1_001.png
+3 p- squid_axe1_002.png
+4 p- squid_axe1_003.png
+C42
+3 p- squid_axe1_004.png
+4 p- squid_axe1_005.png
+3 p- squid_axe1_006.png
+5 p- squid_axe1_007.png
+3 p- squid_axe1_008.png
+3 p- squid_axe1_009.png
+3 p- squid_axe1_010.png
+11 p- squid_axe1_011.png
+C41
+C1A
+C04
+C20
+2 p- squid_axe1_012.png
+2 p- squid_axe1_013.png
+2 p- squid_axe1_014.png
+3 p- squid_axe1_015.png
+3 p- squid_axe1_016.png
+3 p- squid_axe1_017.png
+3 p- squid_axe1_018.png
+3 p- squid_axe1_019.png
+C01
+C1B
+4 p- squid_axe1_020.png
+4 p- squid_axe1_021.png
+3 p- squid_axe1_022.png
+4 p- squid_axe1_000.png
+4 p- squid_axe1_023.png
+2 p- squid_axe1_000.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- squid_axe1_000.png
+3 p- squid_axe1_001.png
+3 p- squid_axe1_002.png
+4 p- squid_axe1_003.png
+C42
+3 p- squid_axe1_004.png
+4 p- squid_axe1_005.png
+3 p- squid_axe1_024.png
+C41
+8 p- squid_axe1_025.png
+C38
+1 p- squid_axe1_026.png
+2 p- squid_axe1_027.png
+2 p- squid_axe1_028.png
+2 p- squid_axe1_029.png
+C38
+1 p- squid_axe1_030.png
+2 p- squid_axe1_027.png
+2 p- squid_axe1_028.png
+2 p- squid_axe1_029.png
+C38
+1 p- squid_axe1_030.png
+2 p- squid_axe1_027.png
+2 p- squid_axe1_028.png
+1 p- squid_axe1_031.png
+3 p- squid_axe1_031.png
+3 p- squid_axe1_032.png
+3 p- squid_axe1_033.png
+6 p- squid_axe1_025.png
+C42
+2 p- squid_axe1_034.png
+15 p- squid_axe1_035.png
+C41
+4 p- squid_axe1_036.png
+C15
+S026A
+3 p- squid_axe1_037.png
+3 p- squid_axe1_038.png
+3 p- squid_axe1_039.png
+3 p- squid_axe1_040.png
+3 p- squid_axe1_041.png
+3 p- squid_axe1_042.png
+3 p- squid_axe1_043.png
+3 p- squid_axe1_044.png
+3 p- squid_axe1_045.png
+3 p- squid_axe1_046.png
+3 p- squid_axe1_047.png
+3 p- squid_axe1_048.png
+3 p- squid_axe1_049.png
+3 p- squid_axe1_050.png
+3 p- squid_axe1_051.png
+3 p- squid_axe1_052.png
+3 p- squid_axe1_053.png
+C41
+C0A
+C04
+C20
+3 p- squid_axe1_054.png
+3 p- squid_axe1_055.png
+3 p- squid_axe1_056.png
+3 p- squid_axe1_057.png
+3 p- squid_axe1_058.png
+3 p- squid_axe1_059.png
+3 p- squid_axe1_060.png
+3 p- squid_axe1_061.png
+3 p- squid_axe1_062.png
+3 p- squid_axe1_063.png
+C01
+3 p- squid_axe1_064.png
+3 p- squid_axe1_065.png
+3 p- squid_axe1_066.png
+3 p- squid_axe1_065.png
+3 p- squid_axe1_064.png
+C41
+2 p- squid_axe1_067.png
+2 p- squid_axe1_068.png
+2 p- squid_axe1_069.png
+2 p- squid_axe1_070.png
+2 p- squid_axe1_071.png
+2 p- squid_axe1_072.png
+2 p- squid_axe1_073.png
+2 p- squid_axe1_074.png
+2 p- squid_axe1_075.png
+C1B
+4 p- squid_axe1_076.png
+4 p- squid_axe1_077.png
+4 p- squid_axe1_078.png
+4 p- squid_axe1_079.png
+10 p- squid_axe1_000.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+5 p- squid_axe1_000.png
+3 p- squid_axe1_001.png
+3 p- squid_axe1_002.png
+C05
+18 p- squid_axe1_003.png
+C01
+4 p- squid_axe1_003.png
+3 p- squid_axe1_002.png
+3 p- squid_axe1_001.png
+1 p- squid_axe1_000.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+5 p- squid_axe1_000.png
+3 p- squid_axe1_001.png
+3 p- squid_axe1_002.png
+C05
+3 p- squid_axe1_003.png
+4 p- squid_axe1_080.png
+4 p- squid_axe1_081.png
+4 p- squid_axe1_082.png
+4 p- squid_axe1_081.png
+C01
+4 p- squid_axe1_082.png
+4 p- squid_axe1_081.png
+4 p- squid_axe1_080.png
+4 p- squid_axe1_003.png
+3 p- squid_axe1_002.png
+3 p- squid_axe1_001.png
+1 p- squid_axe1_000.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- squid_axe1_000.png
+C0E
+1 p- squid_axe1_001.png
+1 p- squid_axe1_083.png
+C01
+1 p- squid_axe1_001.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- squid_axe1_000.png
+C0E
+1 p- squid_axe1_001.png
+1 p- squid_axe1_083.png
+C01
+1 p- squid_axe1_001.png
+C0D
+~~~
+/// - Mode 9
+1 p- squid_axe1_000.png
+C01
+~~~
+/// - Mode 10
+1 p- squid_axe1_000.png
+C01
+~~~
+/// - Mode 11
+1 p- squid_axe1_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- squid_axe1_000.png
+3 p- squid_axe1_001.png
+3 p- squid_axe1_002.png
+4 p- squid_axe1_003.png
+C42
+3 p- squid_axe1_004.png
+4 p- squid_axe1_005.png
+3 p- squid_axe1_006.png
+5 p- squid_axe1_007.png
+3 p- squid_axe1_008.png
+3 p- squid_axe1_009.png
+3 p- squid_axe1_010.png
+16 p- squid_axe1_011.png
+C41
+C04
+2 p- squid_axe1_012.png
+2 p- squid_axe1_013.png
+2 p- squid_axe1_014.png
+3 p- squid_axe1_015.png
+3 p- squid_axe1_016.png
+3 p- squid_axe1_017.png
+3 p- squid_axe1_018.png
+3 p- squid_axe1_019.png
+C01
+C1B
+3 p- squid_axe1_020.png
+3 p- squid_axe1_021.png
+3 p- squid_axe1_022.png
+4 p- squid_axe1_000.png
+4 p- squid_axe1_023.png
+2 p- squid_axe1_000.png
+C06
+C0D
+~~~
+/// - End of animation
