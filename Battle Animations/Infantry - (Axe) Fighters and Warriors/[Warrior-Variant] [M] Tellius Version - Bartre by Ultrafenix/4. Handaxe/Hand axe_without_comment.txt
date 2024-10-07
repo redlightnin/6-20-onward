@@ -1,0 +1,207 @@
+/// - Mode 1
+C03
+C07
+1 p- Hand axe_000.png
+2 p- Hand axe_001.png
+2 p- Hand axe_002.png
+2 p- Hand axe_003.png
+3 p- Hand axe_004.png
+2 p- Hand axe_005.png
+C22
+2 p- Hand axe_006.png
+1 p- Hand axe_007.png
+3 p- Hand axe_008.png
+C42
+3 p- Hand axe_009.png
+C05
+3 p- Hand axe_010.png
+1 p- Hand axe_011.png
+C13
+2 p- Hand axe_012.png
+C42
+2 p- Hand axe_013.png
+2 p- Hand axe_014.png
+C1B
+15 p- Hand axe_015.png
+C01
+3 p- Hand axe_016.png
+C06
+C0D
+~~~
+/// - Mode 3
+C03
+C07
+1 p- Hand axe_000.png
+2 p- Hand axe_001.png
+2 p- Hand axe_002.png
+2 p- Hand axe_003.png
+3 p- Hand axe_004.png
+2 p- Hand axe_005.png
+C22
+2 p- Hand axe_017.png
+2 p- Hand axe_018.png
+2 p- Hand axe_019.png
+2 p- Hand axe_020.png
+C22
+2 p- Hand axe_017.png
+2 p- Hand axe_018.png
+2 p- Hand axe_019.png
+2 p- Hand axe_020.png
+C22
+2 p- Hand axe_021.png
+2 p- Hand axe_022.png
+1 p- Hand axe_023.png
+1 p- Hand axe_024.png
+3 p- Hand axe_008.png
+C42
+3 p- Hand axe_009.png
+C05
+3 p- Hand axe_010.png
+1 p- Hand axe_011.png
+C13
+2 p- Hand axe_012.png
+C42
+2 p- Hand axe_013.png
+2 p- Hand axe_014.png
+C1B
+15 p- Hand axe_015.png
+C01
+3 p- Hand axe_016.png
+C06
+C0D
+~~~
+/// - Mode 5
+C03
+C07
+1 p- Hand axe_000.png
+2 p- Hand axe_001.png
+2 p- Hand axe_002.png
+2 p- Hand axe_003.png
+3 p- Hand axe_004.png
+2 p- Hand axe_005.png
+C22
+2 p- Hand axe_006.png
+1 p- Hand axe_007.png
+3 p- Hand axe_008.png
+C42
+3 p- Hand axe_009.png
+C05
+3 p- Hand axe_010.png
+1 p- Hand axe_011.png
+C13
+2 p- Hand axe_012.png
+C42
+2 p- Hand axe_013.png
+2 p- Hand axe_014.png
+C1B
+15 p- Hand axe_015.png
+C01
+3 p- Hand axe_016.png
+C06
+C0D
+~~~
+/// - Mode 6
+C03
+C07
+1 p- Hand axe_000.png
+2 p- Hand axe_001.png
+2 p- Hand axe_002.png
+2 p- Hand axe_003.png
+3 p- Hand axe_004.png
+2 p- Hand axe_005.png
+C22
+2 p- Hand axe_017.png
+2 p- Hand axe_018.png
+2 p- Hand axe_019.png
+2 p- Hand axe_020.png
+C22
+2 p- Hand axe_017.png
+2 p- Hand axe_018.png
+2 p- Hand axe_019.png
+2 p- Hand axe_020.png
+C22
+2 p- Hand axe_021.png
+2 p- Hand axe_022.png
+1 p- Hand axe_023.png
+1 p- Hand axe_024.png
+3 p- Hand axe_008.png
+C42
+3 p- Hand axe_009.png
+C05
+3 p- Hand axe_010.png
+1 p- Hand axe_011.png
+C13
+2 p- Hand axe_012.png
+C42
+2 p- Hand axe_013.png
+2 p- Hand axe_014.png
+C1B
+15 p- Hand axe_015.png
+C01
+3 p- Hand axe_016.png
+C06
+C0D
+~~~
+/// - Mode 7
+C02
+1 p- Hand axe_000.png
+3 p- Hand axe_025.png
+1 p- Hand axe_026.png
+C01
+3 p- Hand axe_025.png
+1 p- Hand axe_000.png
+C0D
+~~~
+/// - Mode 8
+C02
+1 p- Hand axe_000.png
+3 p- Hand axe_025.png
+1 p- Hand axe_026.png
+C01
+3 p- Hand axe_025.png
+1 p- Hand axe_000.png
+C0D
+~~~
+/// - Mode 9
+1 p- Hand axe_000.png
+C01
+~~~
+/// - Mode 10
+1 p- Hand axe_000.png
+C01
+~~~
+/// - Mode 11
+1 p- Hand axe_000.png
+C01
+~~~
+/// - Mode 12
+C03
+C07
+1 p- Hand axe_000.png
+2 p- Hand axe_001.png
+2 p- Hand axe_002.png
+2 p- Hand axe_003.png
+3 p- Hand axe_004.png
+2 p- Hand axe_005.png
+C22
+2 p- Hand axe_006.png
+1 p- Hand axe_007.png
+3 p- Hand axe_008.png
+C42
+3 p- Hand axe_009.png
+C05
+3 p- Hand axe_010.png
+1 p- Hand axe_011.png
+C13
+2 p- Hand axe_012.png
+C42
+2 p- Hand axe_013.png
+2 p- Hand axe_014.png
+C1B
+15 p- Hand axe_015.png
+C01
+3 p- Hand axe_016.png
+C06
+C0D
+~~~
+/// - End of animation
